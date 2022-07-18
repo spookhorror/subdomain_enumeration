@@ -12,3 +12,6 @@ and add apikey of your account in subdomain enumeration file.
 
 Command:-
 ```python3 subdomain_enumertion.py --domain example.com --out subdomain_example.txt```
+
+
+[![asciicast](https://asciinema.org/a/fS8qpJyunTQ4pVYbvCqHhNm2g.svg)](https://asciinema.org/a/fS8qpJyunTQ4pVYbvCqHhNm2g)
